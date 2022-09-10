@@ -51,7 +51,7 @@ nav .fa-solid{
 }
 .c-2 img{
     width: 600px;
-
+    display: block;
 }
 
 
@@ -104,6 +104,6 @@ footer{
         margin: 15px;
     }
     .c-2 img{
-        width: 350px;
+        display: none;
     }
 }
