@@ -97,7 +97,7 @@ footer{
         cursor: pointer;
     }
     nav .fa-solid{
-        display: block;
+        display: none;
         color: white;
         font-size: 20px;
         cursor: pointer;
